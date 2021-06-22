@@ -5,5 +5,5 @@ This system follows a design similar to the “Observer pattern” where the “
 ![Digram](Images/ScriptableEventSystemUML.png)
 
 # References
-https://www.raywenderlich.com/2826197-scriptableobject-tutorial-getting-started
-https://www.youtube.com/watch?v=lgA8KirhLEU 
+* https://www.raywenderlich.com/2826197-scriptableobject-tutorial-getting-started
+* https://www.youtube.com/watch?v=lgA8KirhLEU
