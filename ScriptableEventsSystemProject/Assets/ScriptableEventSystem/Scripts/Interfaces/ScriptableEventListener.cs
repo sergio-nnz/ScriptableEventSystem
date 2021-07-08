@@ -1,7 +1,8 @@
+using ScriptableEventSystem.Scripts.Core;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace ScriptableEventSystem.Scripts.Core
+namespace ScriptableEventSystem.Scripts.Interfaces
 {
     public abstract class ScriptableEventListener : MonoBehaviour
     {

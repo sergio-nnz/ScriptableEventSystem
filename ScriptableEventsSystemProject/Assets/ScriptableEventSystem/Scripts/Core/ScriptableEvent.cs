@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using ScriptableEventSystem.Scripts.Interfaces;
 using UnityEngine;
 
 namespace ScriptableEventSystem.Scripts.Core
